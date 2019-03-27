@@ -7,5 +7,7 @@ $(document).ready(function() {
   $("#formLetter").show();
 
   event.preventDefault();
+
+  $("#formOne").hide();
   });
 });

@@ -1,3 +1,35 @@
 #formLetter {
   display: none;
 }
+
+img {
+  float: right;
+}
+
+.yourName {
+  font-size: 25px;
+  color: #488734;
+  font-weight: bold;
+}
+
+#excl {
+  font-size: 25px;
+  color: #488734;
+  font-weight: bold;
+}
+
+.row {
+  background-color: #cea82d;
+  padding: 25px;
+
+}
+
+.btn {
+  border: 2px solid #488734;
+  background-color: #488734;
+}
+
+body {
+  background-color: #9ec193;
+  font-family: 'Signika', sans-serif;
+}
